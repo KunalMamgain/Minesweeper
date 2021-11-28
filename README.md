@@ -6,7 +6,6 @@ Play Minesweeper on different difficulty levels or play the tutorial to know the
 <br>
 Works right in your <b>Browser</b> 
 <br>
-<img src="">
 </p>
 
 ### Live demo
