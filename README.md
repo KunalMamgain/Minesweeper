@@ -1,6 +1,6 @@
 <h1 align="center">
-Minesweeper
-</h1>:joystick: 
+Minesweeper :joystick: 
+</h1>
 <p align="center">
 Play Minesweeper on different difficulty levels or play the tutorial to know the rules.
 <br>
